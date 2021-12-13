@@ -2,7 +2,7 @@ Link to unlisted youtube video:
 https://youtube.com/.....
 
 Link to the Concept Map:
-https://draw.io/...
+https://lucid.app/lucidchart/13675f6a-c802-4966-88de-b3b09c19e1cb/edit?invitationId=inv_43d0aa64-9b52-45c8-9fc8-6e42005cae58 
 
 Name, Author, Edition, year and publisher of the Book:
 Speech and Language Processing

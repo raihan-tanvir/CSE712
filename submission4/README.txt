@@ -2,7 +2,7 @@ Unlisted youtube video:
 https://youtu.be/8IPGKTwQAxE
 
 Conference / Paper submission login URL:
-https://easy....
+https://easychair.org/my/conference?conf=dcai22#
 
 Paper title:
 A GAN-BERT Based Approach for Bengali Text Classification with a Few Labeled Examples
@@ -11,14 +11,14 @@ Paper presentation:
 https://docs.google.com/presentation/d/1CO14VuGc2KW5FAdOpTkcAacTisA7M847a6o0pmRWbO4/edit?usp=sharing
 
 Paper submission date (to workshop/conference):
-20 January 2022
+18 January 2022
 
 Paper submission ID: (received) from conference/workshop
-1341234
+1005
 
 
 Conference URL:
-http://confsite/...
+https://www.dcai-conference.net/
 
 Group Number:
 08
